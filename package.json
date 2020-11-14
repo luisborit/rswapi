@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Rimac: SWAPI API Serverless Consume",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Borit",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^2.11.1"
+  }
+}
